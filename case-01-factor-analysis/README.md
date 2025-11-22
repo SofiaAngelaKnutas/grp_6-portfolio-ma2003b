@@ -66,10 +66,11 @@ Two rotation methods were compared:
 
 Based on the results TechnoServe should:
 
-- Improve **pricing clarity** and cost communication  
+- Improve pricing clarity and cost communication  
 - Strengthen **client relationships** through better communication and reliability  
 - Maintain strong technical excellence and delivery quality  
 - Enhance post-project **support and training**  
+
 These actions support higher satisfaction, stronger loyalty, and improved renewal rates.
 
 ---
