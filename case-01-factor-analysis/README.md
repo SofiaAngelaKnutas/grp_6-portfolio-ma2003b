@@ -19,6 +19,7 @@ The dataset includes:
 
 A full data dictionary is included in the
 [Data Dictionary](case-01-factor-analysis/data/CUSTOMER_SATISFACTION_DATA_DICTIONARY-1.md).
+
 ---
 
 ## Methods
