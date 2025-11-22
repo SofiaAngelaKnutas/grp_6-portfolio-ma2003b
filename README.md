@@ -76,9 +76,9 @@ mi-portfolio-ma2003b/
 
 | Case | Method | Business Question | Key Finding | Link |
 |------|---------|------------------|-------------|-------|
-| TechnoServe Customer Satisfaction | Factor Analysis | What latent factors explain customer satisfaction? | Five factors explain ~67% of variance; “Technical skills and innovation” is the strongest driver. | [View Case](case-01-factor-analysis/) |
+| TechnoServe Customer Satisfaction | Factor Analysis | What latent factors explain customer satisfaction? | Five factors explain ~67% of variance; *Technical skills and innovation* is the strongest driver. | [View Case](case-01-factor-analysis/) |
 | LendSmart Credit Risk | Discriminant Analysis | How can applicants be classified into risk categories? | Model achieves ~85% accuracy, where income and credit history are key predictors. | [View Case](case-02-discriminant-analysis/) |
-| MegaMart Customer Segmentation | Cluster Analysis | What natural customer segments exist among MegaMarts customers? | Five customer clusters identified, among them: "Budget-Conscious Regular Buyers" and "Luxury Occasional Shoppers" | [View Case](case-03-cluster-analysis/) |
+| MegaMart Customer Segmentation | Cluster Analysis | What natural customer segments exist among MegaMart’s customers? | Five customer clusters identified, among them: *Budget-Conscious Regular Buyers* and *Luxury Occasional Shoppers* | [View Case](case-03-cluster-analysis/) |
 
 ---
 
@@ -110,6 +110,6 @@ This project was developed using:
 
 ## License
 
-This repository is licensed under the MIT License. See the `LICENSE` file for full details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details.
 
 ---
