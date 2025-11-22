@@ -17,8 +17,8 @@ The dataset includes:
 - 23 satisfaction variables (1–7 scale) from a survey.
 - Outcome metrics such as overall satisfaction, NPS, and renewal likelihood. 
 
-A full data dictionary is included in  
-[`case-01-factor-analysis/data/CUSTOMER_SATISFACTION_DATA_DICTIONARY-1.md`](case-01-factor-analysis/data/CUSTOMER_SATISFACTION_DATA_DICTIONARY-1.md).
+A full data dictionary is included in the
+[Data Dictionary](case-01-factor-analysis/data/CUSTOMER_SATISFACTION_DATA_DICTIONARY-1.md).
 ---
 
 ## Methods
