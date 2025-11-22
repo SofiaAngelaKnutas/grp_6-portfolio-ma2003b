@@ -79,11 +79,10 @@ These actions support higher satisfaction, stronger loyalty, and improved renewa
 
 The project generates the following plots:
 
-- Correlation Matrix (heatmap)  
-- Scree Plot of Eigenvalues  
-- Varimax & Promax Factor Loading Heatmaps  
-- Factor Score Distributions (boxplot)  
-- Spider Chart (customer satisfaction profile)  
+- Correlation Matrix of Behavioral Variables
+- Scree Plot of Eigenvalues
+- Correlation Matrix between Business Outcomes and Factor Loadings
+- Spider Chart Showing Customer Satisfaction Profile
 
 These visualizations are available in the [`visualizations`](visualizations) folder.
 
