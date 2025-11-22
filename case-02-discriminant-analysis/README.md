@@ -64,6 +64,16 @@ Two discriminant models were trained and evaluated:
 
 ---
 
+## Recommendations for LendSmart
+
+- Integrate an **LDA-based model** into loan approval decisions.    
+- Track repayment behavior continuously to prevent late defaults and broader current the dataset.  
+- Reevaluate lending policies using model insights to reduce portfolio risk.
+
+These actions can lower default rates and improve portfolio profitability long term.
+
+---
+
 ## Visualizations Included
 
 The project generates the following plots:
