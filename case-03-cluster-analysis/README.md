@@ -1,6 +1,6 @@
 # MegaMart Customer Segmentation – Cluster Analysis
 
-# 1. Contexto del negocio (Business Context)
+# 1. Business Context
 
 MegaMart currently uses a single, generic marketing strategy for all customers, regardless of their purchase frequency, spending level or engagement with campaigns.  
 This leads to:
@@ -16,7 +16,7 @@ To address this, we analyzed data from 3,000 customers to find natural behaviora
 - Design more efficient, data-driven marketing strategies  
 
 
-# 2. Metodología (Methodology)
+# 2. Methodology
 
 # 2.1 Multivariate method
 
@@ -26,13 +26,13 @@ We applied an unsupervised cluster analysis to group customers with similar shop
 - Objective: find a small number of interpretable, business-relevant segments that can guide marketing actions  
 
 
-# 2.2 Justificación del método
+# 2.2 Justification of the method
 
 - Clustering is appropriate because we do not have predefined labels; we want to discover segments directly from behavior.  
 - k-means provides compact, well-separated clusters and is widely used in marketing segmentation.  
 - The resulting clusters are easy to interpret using averages of key variables (spend, frequency, engagement, returns, etc.), which is crucial for business stakeholders.
 
-# 2.3 Herramientas y librerías
+# 2.3 Tools and Libraries
 
 The analysis was implemented in Python using:
 
@@ -46,9 +46,9 @@ The main notebook for this case is located in:
 `notebooks/` (see the cluster analysis notebook file in this folder).
 
 
-# 3. Datos (Data)
+# 3. Data)
 
-# 3.1 Descripción del dataset
+# 3.1 Description of dataset
 
 - Observations: ~3,000 customers  
 - Level: one row per customer  
@@ -62,7 +62,7 @@ The dataset contains behavioral and value-related variables such as:
 - Number of items returned  
 - Email engagement (opens, clicks)  
 
-# 3.2 Variables clave
+# 3.2 Key variables
 
 The variables that most strongly defined the segments are, for example:
 
@@ -79,7 +79,7 @@ The data dictionary for this case is stored in the `data/` folder of this reposi
 - Folder: `case-03-cluster-analysis/data/`  
 - Link from this README: [Data folder](./data/)
 
-## 4. Hallazgos principales (Key Findings)
+## 4. Key Findings
 
 Our analysis identified four meaningful customer segments, each with distinct behavior and value potential:
 
@@ -105,9 +105,10 @@ Our analysis identified four meaningful customer segments, each with distinct be
    - Respond well to relevant discounts and practical offers  
    - Form the largest and most stable segment
 
-# 4.1 Visualización destacada
+# 4.1 Visualisation
 
 A key visualization (cluster plot) is stored in:
 
 ```text
 case-03-cluster-analysis/visualizations/
+
