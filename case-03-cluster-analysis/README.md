@@ -46,7 +46,7 @@ The main notebook for this case is located in:
 `notebooks/` (see the cluster analysis notebook file in this folder).
 
 
-# 3. Data)
+# 3. Data
 
 # 3.1 Description of dataset
 
