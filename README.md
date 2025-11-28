@@ -104,7 +104,12 @@ This project was developed using:
 
 - Visual Studio Code  
 - Git and GitHub for version control  
-- Jupyter Notebook (via Anaconda)  
+- Jupyter Notebook (via Anaconda)
+
+### Use of Generative AI:
+- Generative AI tools such as ChatGPT and GitHub Copilot were used to assist with both code development and text generation (e.g., documentation, explanations).
+- These tools helped improve clarity and avoid awkward or unclear formulations.
+- All AI-generated content was reviewed, validated, and understood by the team before being included.
 
 ---
 
