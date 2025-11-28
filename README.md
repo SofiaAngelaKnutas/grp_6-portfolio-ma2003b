@@ -111,11 +111,6 @@ This project was developed using:
 - These tools helped improve clarity and avoid awkward or unclear formulations.
 - All AI-generated content was reviewed, validated, and understood by the team before being included.
 
-### Use of Generative AI
-
-- Generative AI tools such as **ChatGPT** and **GitHub Copilot** were used to assist with both **code development** and **text generation** (e.g., documentation, explanations).  
-- These tools helped improve **clarity** and avoid awkward or unclear formulations.  
-- All AI-generated content was **reviewed, validated, and fully understood** by the team before being included.
 
 ---
 
